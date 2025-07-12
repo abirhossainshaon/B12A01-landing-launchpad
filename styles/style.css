@@ -55,7 +55,7 @@ nav button {
     align-items: center;
 }
 /* shared color  */
-.btn -color {
+.btn-color {
     color: #4e47ff;
 }
 
@@ -220,4 +220,18 @@ section div p {
     font-weight: bolder;
     font-size: 90px;
     color: #4e47ff;
+ }
+ form button{
+    background-color: #4e47ff;
+    font-size: 16px;
+    width: 180px;
+    height: 42px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    
+ }
+ footer div li a {
+    list-style: none;
+    text-decoration: none;
  }
