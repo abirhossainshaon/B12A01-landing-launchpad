@@ -117,3 +117,29 @@ header div button {
 .action div img{
     border-radius: 48px;
 }
+.next-section{
+    display: block;
+    width: 100%;
+    margin-top: 50px;
+}
+.user-count{
+    display: flex;
+}
+section div h4 {
+    font-size: 80px;
+    color: #4e47ff;
+}
+section div p {
+    font-size: 20px;
+    color: #000000;
+}
+.next-section{
+    background-color:rgb(242, 242, 244) ;
+    width: 1140px;
+    height: 306px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 90px;
+    padding: 50px;
+    border-radius: 24px;
+}
