@@ -235,3 +235,12 @@ section div p {
     list-style: none;
     text-decoration: none;
  }
+  .next-section{
+    width: 1140px;
+    height: 306px;
+    
+  }
+  footer{
+    margin-top: 90px;
+  }
+  
