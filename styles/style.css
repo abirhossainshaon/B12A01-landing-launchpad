@@ -79,3 +79,41 @@ header div button {
     display: inline-block;
     margin-top: 20px;
 }
+
+/* main section  */
+.action{
+    height: 328px;
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.left-section{
+    width: 48%;
+}
+.right-section{
+    width: 48%;
+    border-radius: 48%;
+    width: 403px;
+    height: 128px;
+}
+.action div button {
+    width: 229px;
+    height: 48px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    background-color: #4e47ff;
+    padding: 12px;
+    border: 0;
+    margin-top: 20px;
+    align-items: center;
+}
+.action div img{
+    border-radius: 48px;
+}
